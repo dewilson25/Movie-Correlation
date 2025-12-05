@@ -34,7 +34,7 @@ Main Cleaning Steps
 ### A. Budget vs Gross (Scatter Plot)
 Higher budgets generally lead to higher gross revenue, though variability shows differing returns on investment.
 
-![Budget vs Gross Scatter]((images/budget_vs_gross.png))
+![Budget vs Gross Scatter](images/budget_vs_gross.png)
 
 ### B. Budget vs Gross
 A regression plot highlights the strong positive relationship between investment and financial output.
